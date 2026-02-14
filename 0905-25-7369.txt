@@ -1,0 +1,8 @@
+1.¿Qué aprendiste sobre el flujo de trabajo con Git y
+GitHub? : Aprendí cómo funciona Git y GitHub para guardar proyectos, subir cambios y llevar control de versiones. También entendí cómo hacer commits y subir archivos al repositorio, además de solucionar errores comunes como problemas con el push y la configuración del usuario.
+
+2.¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún
+conflicto? ¿Cómo lo resolviste?:Trabaje de manera individual, tuve demasiados conflictos con la carga del supositorio en la pagina pero descubri que habia que agregar mi informacion de correo y usuario unicamente, ese fue uno de los problemas mas grandes que tuve porque no entendia de donde venia el error porque si me dejaba hacer otras cosas menos ver que es lo que tenia en el supositorio de la nube o cargar cambios nuevos,me apoye con mis compañeros y buscando en google como resolver ciertos problemas, otros mas específicos me toco resolverlos con Chatgpt para saber porque no me cargaban las ramas por ejemplo.
+
+3.¿Qué ventajas crees que tiene usar Git en proyectos de programación?:
+Usar Git es útil porque permite guardar cambios del proyecto, llevar un historial de versiones y recuperar archivos si algo sale mal. También facilita trabajar en equipo sin perder avances.
