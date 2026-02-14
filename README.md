@@ -20,7 +20,11 @@ Aprendí cómo funciona Git y GitHub para guardar proyectos, subir cambios y lle
 
 
 
-Cambio hecho en la rama jose.
+**Cambio 1 hecho en la rama jose.**
 
+primera ramaa
 
+**cambio 2 hecho en la rama dos jose2**
+
+si se pudo yeeii jaja
 
