@@ -18,3 +18,9 @@ Este proyecto lo hice como práctica para aprender Git y GitHub. Aprendí a clon
 
 Aprendí cómo funciona Git y GitHub para guardar proyectos, subir cambios y llevar control de versiones. También entendí cómo hacer commits y subir archivos al repositorio, además de solucionar errores comunes como problemas con el push y la configuración del usuario.
 
+
+
+Cambio hecho en la rama jose.
+
+
+
